@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>scx-data-x</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <packaging>jar</packaging>
 
     <name>SCX Data X</name>
@@ -95,7 +95,7 @@
 
         <!-- *********************** 以下为依赖包版本 *********************** -->
         <scx-data.version>0.10.0</scx-data.version>
-        <scx-object-x.version>0.10.0</scx-object-x.version>
+        <scx-object-x.version>0.10.1</scx-object-x.version>
         <testng.version>7.12.0</testng.version>
 
     </properties>
